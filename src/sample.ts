@@ -1,5 +1,5 @@
 export class Sample {
-    true() {
+    true(): boolean {
         return true;
     }
 }

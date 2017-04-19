@@ -20,6 +20,7 @@
     "karma-remap-istanbul": "^0.1.1",
     "karma-sourcemap-loader": "^0.3.7",
     "karma-systemjs": "^0.13.0",
+    "tslint": "^5.1.0",
     "typescript": "^2.2.2"
   }
 }
